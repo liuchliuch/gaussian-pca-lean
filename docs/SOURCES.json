@@ -1,0 +1,18 @@
+{
+  "retrieved_utc": "2026-10-04T09:36:00Z",
+  "paper": {
+    "title": "A Correlation-Gap Bound for Nonlinear Gaussian PCA",
+    "authors": [
+      "Minbo Gao",
+      "Zhengfeng Ji",
+      "Chenghua Liu"
+    ],
+    "version": "arXiv:2607.15035v1",
+    "submitted_utc": "2026-07-16T14:15:55Z",
+    "abstract_url": "https://arxiv.org/abs/2607.15035v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.15035v1",
+    "source_url": "https://arxiv.org/src/2607.15035v1",
+    "pdf_sha256": "ca9f83fc55ba54146b66e199cd17dfac4b99b83533efa01c061d98be04392638",
+    "source_sha256": "21831276f5ff6f9686d0ce0f79867f3cde5e96fdf6ad80229e6270fc967228ed"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "repository": "gaussian-pca-lean",
+  "library": "GaussianPCA",
+  "roots": [
+    "GaussianPCA",
+    "StatementContracts.Solution"
+  ],
+  "lean": "leanprover/lean4:v4.24.0",
+  "proof_files": [
+    "GaussianPCA/BinomialRank.lean",
+    "GaussianPCA/Constants.lean",
+    "GaussianPCA/ConstantsAsymptotics.lean",
+    "GaussianPCA/ConstantsDefinition.lean",
+    "GaussianPCA/CorrelationGap.lean",
+    "GaussianPCA/CorrelationGapFinite.lean",
+    "GaussianPCA/CorrelationGapProbability.lean",
+    "GaussianPCA/CorrelationGapSmoothing.lean",
+    "GaussianPCA/CovarianceObjective.lean",
+    "GaussianPCA/Gaussian.lean",
+    "GaussianPCA/GaussianLayerApplication.lean",
+    "GaussianPCA/LayerCake.lean",
+    "GaussianPCA/LayerCakeComparison.lean",
+    "GaussianPCA/LayerCakeThreshold.lean",
+    "GaussianPCA/LayerCakeTopSum.lean",
+    "GaussianPCA/Main.lean",
+    "GaussianPCA/Objective.lean",
+    "GaussianPCA/Spectral.lean",
+    "GaussianPCA/TopSum.lean",
+    "GaussianPCA.lean",
+    "StatementContracts/Solution.lean",
+    "StatementContracts.lean"
+  ],
+  "comparator_config": "comparator/config.json",
+  "specifications": [
+    "StatementContracts/Challenge.lean"
+  ],
+  "theorems": [
+    "GaussianPCAContracts.paper_2",
+    "GaussianPCAContracts.paper_3",
+    "GaussianPCAContracts.paper_4",
+    "GaussianPCAContracts.paper_5",
+    "GaussianPCAContracts.paper_6"
+  ],
+  "definition_holes": []
+}

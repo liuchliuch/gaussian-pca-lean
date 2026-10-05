@@ -1,0 +1,27 @@
+{
+  "sources": {
+    "GaussianPCA/BinomialRank.lean": "0177b9b53f559b9590e77fe1287e2ed02ef751cb7b0857659d355d2b19eb03b3",
+    "GaussianPCA/Constants.lean": "aa229766b55a12a4c384f3ee7f3592e21f892cdadc3a7ae7cc2de7e5c0257a14",
+    "GaussianPCA/ConstantsAsymptotics.lean": "7bfbf44501d6f4616d39c08a9c250a24dbab1d33b3017e2373c7c538102fb4e2",
+    "GaussianPCA/ConstantsDefinition.lean": "dcaff839122167ce1f1fc1eef669695b70b972fab56af35b03947da43df97566",
+    "GaussianPCA/CorrelationGap.lean": "1e5ac444c6f5521501d5251906a13b471e270405a575537d84c9d6f2bac05317",
+    "GaussianPCA/CorrelationGapFinite.lean": "bf254ab6f8e80a50afe9fdd3450a7210439bb7cedbf28860265aaba21887b5da",
+    "GaussianPCA/CorrelationGapProbability.lean": "631a880d3328b23ef01d7beca44e8fb21a9bb7fa05236439a3b3f23d4d69a43a",
+    "GaussianPCA/CorrelationGapSmoothing.lean": "8faf38fae6f5bebc0536b98225e3ce5669a89bfeef1616dc0bc11142ad39d9ce",
+    "GaussianPCA/CovarianceObjective.lean": "632c54791880f7fd9c634fc726cb489427036e23b2e6d0b3cbabd5a440af7319",
+    "GaussianPCA/Gaussian.lean": "057c9ab0bf2bbdfa33fc769bd6938f12d734b57b9331d07768641bb24f1e5190",
+    "GaussianPCA/GaussianLayerApplication.lean": "0c529b8c3da508e571a536385ee51c94e771ce1e5e641c5c1a5fd6abd0beaee1",
+    "GaussianPCA/LayerCake.lean": "64fcfc60c40c5d98bed48848c502ed2d1d6d0313a899f1161f67c7e1fc634dd2",
+    "GaussianPCA/LayerCakeComparison.lean": "2f0ffc9093a7b3f9b62a76447ee3cd332b5888e9e5a35be267443a8a73103821",
+    "GaussianPCA/LayerCakeThreshold.lean": "b54451e9f2401296e1eefa8a1180089f55208fb0bc2bc992e1c149b1400aad77",
+    "GaussianPCA/LayerCakeTopSum.lean": "93d26ee83065f6e3d0aa34d0cd384a17f96f7be0992fb12e376d193ec56e5f68",
+    "GaussianPCA/Main.lean": "4a9811e54eb5c032202e0ced3f911bbfdf6bb4da05338f8b6e7814529dc1fea5",
+    "GaussianPCA/Objective.lean": "b3a717a5e61e323eed3eba96ee50a70f03b70d8a3c7c130b3a6127f6662ebe25",
+    "GaussianPCA/Spectral.lean": "81d62a9e6b8c0f2e8f4e19835a912ad70099b116c5e72cfe7444b154ade8aa57",
+    "GaussianPCA/TopSum.lean": "beba296c463b0228462acaca155de6feae161fcde8240821d151a682565429dd",
+    "GaussianPCA.lean": "1b1dd7da45c555c5dbdda61450354d6a9ea0fec1a3b13bc1c9181d5f615f2ae8",
+    "StatementContracts/Solution.lean": "7a9a72bd83c5b8d2539992d6e8ca4b2c0a834fa4a54bf542dab8f04ae5bb026c",
+    "StatementContracts.lean": "51e7c85d97c3d14ad5411f1f2948fdfe037ad231aafc9444797ac90bcb14adc3"
+  },
+  "scope": "Fixed mathematical library, bridge proofs and retained regressions; verification tooling is hashed separately."
+}
